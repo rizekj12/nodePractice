@@ -1,0 +1,4 @@
+ Hey there lets get this coding job so we can travel the world for a bit!!
+
+ the first place we will travel is Bali!!! 
+ created on function now() { [native code] }
